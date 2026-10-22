@@ -3213,6 +3213,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QRCode.Pub tools](https://qrcode.pub/qr-code-api#mcp) `https://qrcode.pub/mcp`
   [![QRCode.Pub tools MCP connector](https://glama.ai/mcp/connectors/pub.qrcode/tools/badges/score.svg)](https://glama.ai/mcp/connectors/pub.qrcode/tools)
   🔓 - Free QR code images plus pay-per-call page-to-Markdown, page metadata and file hosting, in USDC via x402.
+- [Quant Agent Shop](https://quantagentshop.com) `https://quantagentshop.com/mcp`
+  [![Quant Agent Shop MCP connector](https://glama.ai/mcp/connectors/com.quantagentshop/web-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.quantagentshop/web-tools)
+  🔓 - Web search, pages as Markdown, cited answers and PDF creation; pay per call in USDC on Base via x402, no account.
 - [Ragfeed](https://ragfeed.de/claude) `https://api.ragfeed.de/mcp`
   [![Ragfeed MCP connector](https://glama.ai/mcp/connectors/io.github.LeifAlbrand/ragfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeifAlbrand/ragfeed)
   🔐 - Web pages, PDFs and search results as LLM-ready Markdown or vector-DB chunks; Firecrawl-compatible API.
